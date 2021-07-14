@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Programing-with-ali/Programing-with-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,19 +16,29 @@ Here are some ideas to get you started:
 -->
 
 
+<h1>
+ Hi, I'm Ali!
+</h1><img alt="A web developer" src="https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg"/>
 
-Hi, I'm Ali!
 A Full-stack web developer JavaScript codes.
-
+<br>
 I'm currently studying at hackerrank, an online school for remote software developers.
 
-
+<br>
 
 If you like what you see, and have a project you need coded, don’t hesitate to contact me.
-
-Whatsapp:https://chat.whatsapp.com/CZznKlpT8987I94rsUBSLW
-Gmail:sayyidalialjuri8@gmail.comm
-
-Languages, Frameworks, Tools & Libraries
+<br>
+Whatsapp:https://chat.whatsapp.com/CZznKlpT8987I94rsUBSLW<br>
+Gmail:sayyidalialjuri8@gmail.com
+<br>
+Languages, Frameworks, Tools & Libraries<br>
 JavaScript, HTML5, CSS3, Git, Visualstudiocode, and bootstrap
 
+
+<br>
+<br>
+<br>
+
+<h2>My Other Project <b>:</b></h2>
+<br>
+<img src="img.png" />
