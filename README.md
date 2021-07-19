@@ -39,6 +39,42 @@ JavaScript, HTML5, CSS3, Git, Visualstudiocode, and bootstrap
 <br>
 <br>
 
+<p>
+<h2> <b>Work Experience</b></h2>
+js
+HackerRank | June 2019 - Present<img src="https://hrcdn.net/s3_pub/hr-assets/company_logos/hr-3431d8ecedb2-2.svg">
+
+in Hackerrank I will study js from scracht to web development and front end developer InsyaAllah
+
+
+
+<b>Python and Javascript<b>
+Tynker | June 2018 - Present<img src="https://hrcdn.net/s3_pub/hr-assets/company_logos/36a21a58a24c.jpg">
+
+I learn to code and mod Minecraft with Tynker's easy-to-learn, visual programming courses. Tynker makes it fun to learn computer programming for 4th through I have visited this page many times.
+
+
+<b>Computer since</b>
+SoloLearn | September 2020 - November 2020<img src="https://hrcdn.net/s3_pub/hr-assets/company_logos/c771ad89ef29.jpg">
+
+Why I study in Sololearn's because to study in this for beginners coding in Sololearn's and easy to learn in Hackerrank and if you learn in Sololearn's you will certainly understand and more complete the lessons or methods and blocks in this Sololearn's after I learned in my young Sololearn's understand in Hackerrank
+
+
+<b>Founder</b>
+kawankoding | September 2020 - October 2020
+
+<b>Computer siece</b>
+w3schools | November 2019 - February 2020
+
+<b>Software Engineer</b>
+Code.org | January 2018 - January 2020
+
+I learned at code.org for me to understand about coding and the course of the program and I was easier to learn about coding is not difficult and quick to understand about coding
+
+</p>
+
+
+<br><br><br>
 <h2>My Other Project <b>:</b></h2>
 <br>
 <img src="img.png" />
